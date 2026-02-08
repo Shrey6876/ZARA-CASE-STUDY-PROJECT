@@ -1,6 +1,4 @@
-Got it. Here is a **clean, no‑emoji, fully in-chat version** of a standout README you can paste directly into your repo and then customize with your name, GitHub handle, and actual files. This is written to look like a top-tier consulting engagement, not a student project.
 
-***
 
 ```markdown
 # ZARA STRATEGIC ANALYSIS  
