@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/status-complete-success)
 ![Focus](https://img.shields.io/badge/focus-strategy%20%7C%20finance%20%7C%20operations-blue)
 ![Period](https://img.shields.io/badge/period-2000--2024-royalblue)
-![Tech](https://img.shields.io/badge/tools-Excel%20%7C%20Python%20%7C%20Jupyter%20%7C%20DCF-lightgrey)
+![Tech](https://img.shields.io/badge/tools-Excel%20%7C%20-lightgrey)
 
 ---
 
