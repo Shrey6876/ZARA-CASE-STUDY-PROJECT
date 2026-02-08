@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # ZARA STRATEGIC ANALYSIS  
 ### Fast Fashion, Global Expansion, and Value Creation (2000–2024)
 
@@ -209,24 +209,8 @@ Each notebook and report makes explicit which framework is used, and why.
 
 ---
 
-## 6. How to Use This as a Portfolio Piece
 
-You can position this project as:
-
-- Evidence of:
-  - Quantitative comfort (DCF, ROIC, multi-year modeling).
-  - Strategic thinking (sequencing of markets, business model defense).
-  - Communication skill (board-ready Executive Summary).
-
-Ideas for showcasing:
-
-- Link this GitHub repo in:
-  - CV, under “Selected Projects”.
-  - MBA essays (e.g., “I built a full strategic and valuation model for Zara/Inditex …”).
-  - LinkedIn “Featured” section.
-- Turn `reports/executive_summary_template.md` into a polished PDF and attach it alongside.
 
 ---
 
 
-If you paste this into `README.md` and swap in your details and actual file names, your repo will look like a serious, consulting-grade Zara case study rather than a basic class assignment.
