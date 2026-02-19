@@ -1,13 +1,13 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2ea043,100:3fb950&height=180&section=header&text=ZARA%20Strategic%20Analysis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fast%20Fashion%20%7C%20Global%20Expansion%20%7C%20Value%20Creation%20(2000%E2%80%932024)&descSize=16&descAlignY=55&descColor=c9d1d9" width="100%" />
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Strategic Analysis](https://img.shields.io/badge/Strategy-Consulting_Grade-blue?style=flat-square)
-![DCF](https://img.shields.io/badge/Valuation-10yr_DCF-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Shrey6876/ZARA-CASE-STUDY-PROJECT?style=flat-square&color=blue)
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Strategy-Consulting_Grade-blue?style=flat-square" alt="Strategy" />
+<img src="https://img.shields.io/badge/Valuation-10yr_DCF-orange?style=flat-square" alt="DCF" />
+<img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/github/last-commit/Shrey6876/ZARA-CASE-STUDY-PROJECT?style=flat-square&color=blue" alt="Last Commit" />
 
 </div>
 
@@ -97,11 +97,11 @@ ZARA-CASE-STUDY-PROJECT/
 
 ```mermaid
 graph LR
-    A[20+ Years of<br/>Annual Reports] --> B[Financial<br/>Rebuild]
-    B --> C[KPI Extraction<br/>& Benchmarking]
-    C --> D[Strategic<br/>Analysis]
-    D --> E[DCF Valuation<br/>+ Scenarios]
-    E --> F[Executive<br/>Deliverables]
+    A[20+ Years of Annual Reports] --> B[Financial Rebuild]
+    B --> C[KPI Extraction and Benchmarking]
+    C --> D[Strategic Analysis]
+    D --> E[DCF Valuation + Scenarios]
+    E --> F[Executive Deliverables]
     
     style A fill:#1a1b27,stroke:#3fb950,color:#c9d1d9
     style E fill:#1a1b27,stroke:#3fb950,color:#c9d1d9
@@ -161,4 +161,3 @@ This project is licensed under the [MIT License](LICENSE).
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2ea043,100:3fb950&height=100&section=footer" width="100%" />
 
 </div>
-]]>
